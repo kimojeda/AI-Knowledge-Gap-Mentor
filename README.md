@@ -20,3 +20,14 @@ Dependencies:
 - tavily-python
 - youtube-search
 
+**Instructions**
+1. Prerequisites
+Ensure you have Python 3.10+ installed. You will also need active API keys for:
+- OpenAI: To power the agent's reasoning.
+- Tavily: To perform web searches for technical documentation.
+
+2. Install all required libraries, including LangChain, LangGraph, and search tools:
+pip install -r requirements.txt
+
+3. Run the main script to start a conversation with the mentor:
+
