@@ -29,5 +29,4 @@ Ensure you have Python 3.10+ installed. You will also need active API keys for:
 2. Install all required libraries, including LangChain, LangGraph, and search tools:
 pip install -r requirements.txt
 
-3. Run the main script to start a conversation with the mentor:
-
+3. Run the main script to start a conversation with the mentor.
