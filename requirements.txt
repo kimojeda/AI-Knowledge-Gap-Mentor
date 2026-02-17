@@ -1,0 +1,7 @@
+langchain-openai
+langchain-core
+langchain-community
+langgraph
+tavily-python
+youtube-search-python
+pydantic
